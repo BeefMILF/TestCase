@@ -1414,7 +1414,7 @@ true posixrules
       <ObjectId>13463</ObjectId>
       <Comment>default administrative connection database</Comment>
       <Owner>postgres</Owner>
-      <IntrospectionStateNumber>1347</IntrospectionStateNumber>
+      <IntrospectionStateNumber>1372</IntrospectionStateNumber>
       <Current>1</Current>
       <Relations>sequence|table|16384|16386|1
 sequence|table|16428|16436|1
@@ -1489,7 +1489,7 @@ sequence|table|16713|16715|1
       <Comment>standard public schema</Comment>
       <StateNumber>275</StateNumber>
       <Owner>postgres</Owner>
-      <IntrospectionStateNumber>1348</IntrospectionStateNumber>
+      <IntrospectionStateNumber>1373</IntrospectionStateNumber>
       <Current>1</Current>
     </schema>
     <schema id="15" parent="2" name="schema2">
@@ -1497,19 +1497,19 @@ sequence|table|16713|16715|1
       <Comment>For task 2</Comment>
       <StateNumber>508</StateNumber>
       <Owner>postgres</Owner>
-      <IntrospectionStateNumber>1349</IntrospectionStateNumber>
+      <IntrospectionStateNumber>1374</IntrospectionStateNumber>
     </schema>
     <schema id="16" parent="2" name="schema3">
       <ObjectId>16655</ObjectId>
       <StateNumber>650</StateNumber>
       <Owner>postgres</Owner>
-      <IntrospectionStateNumber>1350</IntrospectionStateNumber>
+      <IntrospectionStateNumber>1375</IntrospectionStateNumber>
     </schema>
     <schema id="17" parent="2" name="schema4">
       <ObjectId>16696</ObjectId>
       <StateNumber>689</StateNumber>
       <Owner>postgres</Owner>
-      <IntrospectionStateNumber>1351</IntrospectionStateNumber>
+      <IntrospectionStateNumber>1376</IntrospectionStateNumber>
     </schema>
     <access-method id="18" parent="2" name="heap">
       <ObjectId>2</ObjectId>

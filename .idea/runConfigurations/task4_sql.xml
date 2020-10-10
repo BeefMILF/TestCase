@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="task4.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+    <script-file value="$APPLICATION_CONFIG_DIR$/consoles/db/c3c70cda-5c2f-44c8-8a8b-0c8df28a5897/task4.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="c3c70cda-5c2f-44c8-8a8b-0c8df28a5897" namespace="database/&quot;postgres&quot;/schema/&quot;schema4&quot;" />
+    <method v="2" />
+  </configuration>
+</component>
