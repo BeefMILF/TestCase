@@ -1,4 +1,4 @@
-# solidTestCase
+# TestCase
 *sql test scripts*
 
 *All tables for tests were generated with [**mockaroo**](https://www.mockaroo.com/)*
